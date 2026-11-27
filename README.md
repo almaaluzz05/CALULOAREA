@@ -62,7 +62,3 @@ Si trabajás en una computadora con restricciones de instalación local:
 3. Presioná **Run** (F9) para compilar e interactuar con la consola.
 
 ---
-
-## 📄 Licencia
-
-Este proyecto se distribuye bajo la licencia **MIT** para fines estrictamente educativos y académicos.
